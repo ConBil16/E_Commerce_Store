@@ -1,0 +1,23 @@
+.contactDetails{
+    border: blue 2px solid;
+    text-align: left;
+    background-color: #CBDDE7;
+    width: 600px;
+}
+
+.contactDetails label {
+    margin-top: .5em;
+    display:inline-block;
+    width:6em; /* or whatever you are setting for width */
+}
+
+#login{
+    width: 500px;
+    height: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: rgb(128, 147, 153);
+    color: white;
+}
+
